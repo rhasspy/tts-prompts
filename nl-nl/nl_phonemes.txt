@@ -1,0 +1,72 @@
+# https://nl.wiktionary.org/wiki/WikiWoordenboek:Standaardweergave_uitspraak_Nederlands
+# https://en.wikipedia.org/wiki/Dutch_phonology
+
+# phoneme example
+
+# Normal vowels
+a h[aa]r
+ɑ k[a]n
+e m[ee]r
+ɛ p[e]t
+i b[i]et
+ɪ v[i]s
+o [oo]g
+ɔ [o]s
+y [uu]r
+ʏ [u]k
+ø [eu]ro
+u [oe]ver
+ə g[e]makkelijk
+
+# Elongated vowels
+aː j[a]
+ɑː f[a]rm
+eː v[ee]r
+ɛː [oe]ver
+iː anal[y]se
+ɔː r[o]ze
+yː centrif[u]ge
+uː c[oo]l
+œː man[oeu]vre
+ʏː res[ea]rch
+
+# Nasalated vowels
+ɑ̃ [e]ntree
+ɛ̃ enf[i]n
+ɔ̃ circ[o]nflexe
+
+# Dipthongs
+ɛi [ij]s
+ɑu [au]gurk
+œy [ui]l
+
+# Plosives (stops)
+p [p]as
+b [b]ij
+t [t]ien
+d [d]en
+c [tj]alk
+ʔ na[-]apen
+k [k]at
+ɡ [g]oal
+
+# Fricatives
+f [f]oto
+v [v]ier
+s [s]ok
+z [z]es
+x [ch]emie
+ɣ [g]at
+h [h]eer
+ʃ [sj]aal
+ʒ [j]am
+
+# Other consonants
+m [m]an
+n [n]ul
+ŋ to[ng]
+ɱ i[n]fuus
+l [l]ip
+ɹ [r]ol
+j [j]as
+w [w]iel
