@@ -1,67 +1,106 @@
 Phone coverage: 1.0
-Pair coverage: 0.9276572064552031
-Missing 130 pairs
-x c aagtje aagtjes aangezichtje aangezichtjes gloeilichtje gloeilichtjes aantochtje aantochtjes aantrekkingskrachtje aantrekkingskrachtjes engelengezichtje engelengezichtjes laserlichtje laserlichtjes oefenvluchtjes oefenvluchtje rattengezichtje rattengezichtjes voettochtjes voettochtje voorzichtjes detectivenachtje detectivenachtje detectivenachtjes detectivenachtjes
+
+Pair coverage: 0.8968031407739765
+Missing 184 pair(s)
+x c aagtje aagtjes aangezichtje aangezichtjes aantochtje aantochtjes aantrekkingskrachtje aantrekkingskrachtjes detectivenachtje detectivenachtje
+n ʒ aalbessengelei aalbessengeleien aalbessengeleitje aalbessengeleitjes aalbessenjam aalbessenjams bingewatchen changemanagement conciërge loungeset
 d c aalgrondeltje aalgrondeltjes
-t c aalputje aalputjes aangelegenheidjes aangelegens aangrijpingspuntje aangrijpingspuntjes aanklachtje aanklachtjes aanvangspuntje aanvangspuntjes buffetje buffetjes
-e c dinertjes dinertje aanbevelingscomiteetje aanbevelingscomiteetjes aankomelingetje aanvalskreetje aanvalskreetjes apoptose bmw'tje bmw'tjes comprimeetje comprimeetjes evacueetje evacueetjes exposeetje exposeetjes kerst-cd'tje kerst-cd'tjes kerstdinertje kerstdinertjes kunstcafeetje kunstcafeetjes middaggebedje middaggebedjes namiddaggebedje namiddaggebedjes pateetje pateetjes prostitueetje prostitueetjes resumeetje resumeetjes traceetjes traceetje usb'tjes usb'tjes usb'tje usb'tje videetjes videetje filetje filetjes
+t c aalputje aalputjes aangelegenheidjes aangelegens aangrijpingspuntje aangrijpingspuntjes aanklachtje aanklachtjes aanvangspuntje aanvangspuntjes
+e c aanbevelingscomiteetje aanbevelingscomiteetjes aankomelingetje aanvalskreetje aanvalskreetjes apoptose bmw'tje bmw'tjes comprimeetje comprimeetjes
 w c aanbouwtje aanbouwtjes flambeeuwtje flambeeuwtjes lesgebouwtje lesgebouwtjes
+ʒ ʏ aandachtsjunk aandachtsjunken aandachtsjunks exposure jersey jumping
+j s aandachtspuntenlijsten aandachtspuntenlijstje aandachtspuntenlijstjes ais babymais bahais bobbemaise bobbemaises butterfly's byes
+p ɛi aangezichtspijn aangezichtspijnen aangezichtspijntje aangezichtspijntjes afgepeigerd algentapijten algentapijt arbeidsongeschiktheidsverzekeringsmaatschappijen arbeidsongeschiktheidsverzekeringsmaatschappij bruidegomspijp
 z p aangrijpingspunt
-ʏ j aangroeien aangroei aangroeide aangroeiden aangroeiend aangroeit
-s c aankomstje aankomstjes mixture mixtures badkamerkastje badkamerkastjes munitiekistje munitiekistjes vragenlijstjes vragenlijstje
+ʏ j aangroei aangroeide aangroeiden aangroeien aangroeiend aangroeit
+s c aankomstje aankomstjes badkamerkastje badkamerkastjes mixture mixtures munitiekistje munitiekistjes vragenlijstjes vragenlijstje
 ə ŋ aanspeelden aanswitchen aanswitchend aanvraagden apengeil hersengebied wolkenkrabber
-iː f briefen ablatief accusatief
-v ɣ afghanistan afgrond afghaans
+iː f ablatief accusatief briefen
+v b afbeelding afbeulen afblaffen afbollen afbonken afbouwen afbreken alefbeet alefbeis detectiveboek
+v ɣ afghaans afghanistan afgrond
 v s afsmijten
+ɡ u agoena agoenot bulgur gargouille gargouilles goetort googelen googelen googel gourmets
+ɡ w aguacateeks consanguien guarani guatemala nicaragua nicaragua //xegwi
+l ʃ alsjeblieft bullshit pelsje pelsjes welshman welshmen
+m f amfitheater amfora boezemfibrilleer boomfruit boomnimf boomnimfen boomnimfje boomnimfjes kerstboomfeesten kerstboomfeestje
 z ɡ amuzgo lezgi lezgische lezgisch uruzgan
+ɡ l anglicaanse anglicaanser anglicaansere anglicaanst anglicaanste glasslak glila glilot glosa glossy
 c a anglicaanse anglicaanser anglicaansere anglicaanst anglicaanste
 y c aperçuutje aperçuutjes fichuutje fichuutjes sudokuutjes sudokuutje zilveruitje
-b iː claustrofobie claustrofobie arabier
+ɑu ɹ appikoures aurora baccalaurei balkoure balkoures centaurus kauri kauri's koure moure
+b iː arabier claustrofobie claustrofobie
 c d asielhonden luchtdebietmeters
+ʃ k asjkelonieten asjkeloniet asjkenaziem asjkenazi asjkenazi asjkenazim asjkenazische asjkenazisch asjkenazi's jesjkouch
 ɛ ɑ australiëantigeen
 ŋ ʏ autocunnilingus
 v t azavtani
 ʒ aː azerbeidzjaan azerbeidzjaans azerbeidzjaanse
-z m barbarisme endemisme judezmo klezmer klezmorem micro-organisme mizmoriem mizmor zelfbedieningskapitalisme neologisme spasmodermie
+ʒ a azerbeidzjan dame-jeanne dame-jeannes hidjazi-arabisch poujadisme west-punjabi zuid-azerbeidzjaans
+ɑ i babymaïs haïti maïsakker maïsakkers maïsakkertje maïsakkertjes maïskip maïskippen maïskippetje maïskippetjes
+ʃ p backstagepas backstagepasje backstagepasjes backstagepassen cache-pot misjpacha misjpachot misjpatiem misjpat misjpochologie
+ŋ ɹ belastingregels belastingregeltje belastingregeltjes gekettingrookt kettingrook omvangrijk rekeningrijden rekeningrijden tongriem vangrail
 ø ʃ berceuseje
-ʃ ɹ besjrieën cambridgerol cambridgerollen kasjres kasjroet oenbesjrieën onbesjrieën shrapnel shrapnels tisjri tisjri
-ɛ iː blíjven
+ʃ ɹ besjrieën cambridgerol cambridgerollen kasjres kasjroet oenbesjrieën onbesjrieën shrapnel shrapnels tisjri
+c u betjoecht tuner youtubede youtuben
+ʒ w bingewatchen
+ʃ s bitches
+ʒ ɔ blowjob blowjobs djoinen gejobd jobbe jobbend jobben jobber jobbers jobde
 ʒ iː bluejeans gigue
+f ɑː bodyfarm bodyfarms farm farms
+u ɡ boekbinden boekdeel boekdeeltje boekdeeltjes boekdelen cayuga googelen googelen googel hooglied
+o a boomboaatje boomboaatjes boomboa boomboa's choanoflagellata choanoflagellaten goaliem hondskopboaatje hondskopboaatjes hondskopboa
 œː p boomkruiper
 ʒ t bridgetafel bridgetafels bridgetafeltje bridgetafeltjes
-y ŋ funky bruingebrand bruingebrande bruingebrander bruingebrandere bruingebrands bruingebrandst bruingebrandste bruingrijs
+j h broeihaard broeihaarden broeihaardje broeihaardjes octrooihouder octrooihouders snoeihard
+y ŋ bruingebrand bruingebrande bruingebrander bruingebrandere bruingebrands bruingebrandst bruingebrandste bruingrijs funky
 b yː bugel
-ʏ ɡ drugdealer drugsverslaving buggy ecodrug
+ʏ ɡ buggy drugdealer drugsverslaving ecodrug
+l ɡ bulgur pelgrim
+p ʃ bupsje bupsjes chibcha lapsjwantsen lapsjwants snapshot
+ʃ b bush-bush bushbush squashbaan
 z n businessclass
-b ɑː bye byes
-ɑː j bye byes
 ʃ ɛː caissière kassière tertiair tertiair
 k ɑː casten sidecar sidecars
 ɑː s casten
+ɛ ʒ casual casuals casualste casualst
 yː ʒ centrifuge
+i ʔ ceo iugs locatieonafhankelijk parasjiot
 ʒ m changemanagement changemanagement contentmanagementsysteem klasmanagement
-ə ʒ changemanagement
 f ʏː chauffeur
+k eː cherokee deblokkeren fietsverkeer hypothekeren keel keteldal markeerstift treinverkeer trukeren
+ʃ v chesjvan chesjvan marchesjvan marchesjvan
+ʃ ɑu ciao gesjaukeld sjaukelde sjouchets sjouchet sjoufers sjoufer sjoumers sjoumer sjoumrem
+k uː cocooning cool koemelk q taikoen tycoon
+uː l cool crewlid genenpool klapstoel poule ruling rulings tools tooltjes tooltje
+d ɑu countdown countdowns doordouwer down downer downers downloaden downvoten downvoten gedownload
 c ʏ countryhit
-ɡ ʏ shotgun cunnilingus gullah shotguns
+ɡ ʏ cunnilingus gullah shotgun shotguns
 m ʒ dame-jeanne dame-jeannes
 ø ʒ danseuseje danseusejes
 c k deinterlacing
 d ɑː derby stadsderby
-p ø neuspeuter oppeuzelen peurder peurders peuren peur vapeurs vapeur detectivespeurwerk detectivespeurwerk
+p ø detectivespeurwerk detectivespeurwerk neuspeuter oppeuzelen peurder peurders peuren peur vapeurs vapeur
 ø ɡ deugdelijk
+ɔ ɡ dogrib etrog koggel koggels mierenlokdoos schokbuisjes schokbuisje schokbuis schokbuizen
 ɑu ɱ downvoten
-u ʒ poujadisme enthousiast enthousiast
-y ʒ enthousiast
-ø f sleuf eufemistische eufemistischere eufemistischer eufemistischers eufemistisch
+ʃ y eenmansjury fichu fichu's fichuutje fichuutjes parachuteren
 ɛ ɱ e.v.
-o ɱ fanfare kinderpersconferentie kinderpersconferenties
+o ʒ exposure lojban
+f iː feeder fietser
 c h fietsverlichting
 h t fietsverlichting
 c uː finetunen
+uː h formatiemoeheid formatiemoeheid
+ɔ i freudiaans
+j uː fusion future futures wayuu wordfeuden wordfeud
+uː ʒ fusion rouge rouges
 uː c futures
-ɑ ʒ gechargeerd
-c t woelzucht gezichtsdetective gezichtsdetective gezichtsdetectives gezichtsdetectives
+ɡ p gangpad
+o ø gastro-oesofageaal
+ʒ s gebridged loungeset loungesets
+m ɑu gemouwveegd kussmaulademhaling mauwen moure moures mouterij moutse moutses moutsie mouwveegde
+ʃ l gesjlept masjliem schlemielig schlemiel schlemieltje schlemieltjes sjlachmones sjlemazzel sjlemazzels sjlemielen
+c t gezichtsdetective gezichtsdetective gezichtsdetectives gezichtsdetectives woelzucht
 iː ɡ gigue
 ɡ ɑu goudsnee
 ɛi ʒ greige greigere greiger greigers greiges greigeste greigest
@@ -70,63 +109,79 @@ z l grizzlybeer grizzlybeer grizzlybeer
 ʃ ɛi hechsjeirem sjeimesbak sjeimesbakken sjeintje sjeintjes sjeitel sjeitels
 h uː hoensbroek
 uː k hoensbroek
+j ɣ hooigraaf
 œː c hoosbuitje hoosbuitjes
-ʔ ɔ hotsaot locatieonafhankelijk micro-organisme mikwaot noeschaot parasjiot usb-opladers usb-opladers usb-opladertjes usb-opladertjes usb-opladertje usb-opladertje usb-oplader usb-oplader zeeotter
+ʔ ɔ hotsaot locatieonafhankelijk micro-organisme mikwaot noeschaot parasjiot usb-opladers usb-opladers usb-opladertjes usb-opladertjes
 uː f hufterproof
+s ʃ ijsshow
 ɱ p impotent
 ɱ b inbedroefd inbedroefde
-v j interview vieux livjatan
+k c inktje picture
+v j interview livjatan vieux
 ʔ y iugs puk'en puk
 j ɑː jahweh jahwe
 ɑː w jahweh jahwe
 ʒ ø jeuïgere jeuïgers jeuïger jeuïge jeuïgste jeuïgst jeuïgs jeuïg
+ʃ u jisjoev katsjoe ouderdomspensioenen ouderdomspensioentjes ouderdomspensioentje ouderdomspensioen pasjoet pensioenstelsel quechua shoots
 ʒ y jurering jurylid verjus
-ɡ x onregelmatige onregelmatiger karige karigere kariger karigste karigst onregelmatigere onregelmatigste onregelmatigst
-z ɣ kerstgedachte kerstgedachte lewisgraad uruzgan kerstgedachten kerstgedachtes
+ɡ x karige karigere kariger karigste karigst onregelmatige onregelmatigere onregelmatiger onregelmatigste onregelmatigst
+œː l kerkuilen kerkuil kerkuil kerkuiltje kerkuiltje kerkuiltjes kerkuiltjes steenuil uil uilskuiken
+z ɣ kerstgedachte kerstgedachte kerstgedachten kerstgedachtes lewisgraad uruzgan
 k iː keyboard keyboard
 j ʔ kinaray-a
+t uː klapstoel toeval tools tooltjes tooltje tool
 ɛː ŋ kleinkind
 ŋ c koefnoentje koefnoentjes
-ɑu ʃ kousjere kousjer looksausje looksausjes pastasausje pastasausjes sjlousjem vleessausjes vleessausje vruchtensausjes vruchtensausje
+ɑu ʃ kousjere kousjer looksausje looksausjes pastasausje pastasausjes sjlousjem vleessausjes vleessausje vruchtensausjes
+b s krabsla scrabble skibobs substraatcyclus zimbabwe
 j ŋ kumbainggar
 l ɑː lahnda large
 ɑː n lahnda
 ɑ ɱ lamfer lamfers wanverhouding wanvertoning wuhanvirussen wuhanvirus
 ɹ ŋ lerncafé
+l ʏː leugenkot leugen
+ʏː ɣ leugenkot leugen
 ʒ b lojban lunchboxen lunchboxje lunchboxjes lunchbox
 j iː longyearbyen
+eː x maastricht weeg
 œː v manoeuvre uitwijkmanoeuvre
 z k mazkiroet
 i ʏ mendelevium rhyacium rhyacium trapezium
 ɛi ŋ mijngang
 ø ɑu milieuautoriteiten milieuautoriteit
 z ɹ mizrachi mizrach mizrachs
-aː ʔ na-apen
+ʃ h münchhausen-by-proxysyndromen münchhausen-by-proxysyndroom münchhausen-by-proxysyndroompje münchhausen-by-proxysyndroompjes
 ʒ d nadjdi-arabisch
 ʔ ɛi na-ijverige naijverige na-ijverig naijverig
+p iː newspeak pier sex-appeal speedway spierpijn
 u ʔ nisoeïen
+f ʃ offshore
 ʃ ʏ ondershirt ondershirts tomatenketchup
 ɡ ɡ ontegenzeggelijke ontegenzeggelijkere ontegenzeggelijker ontegenzeggelijkste ontegenzeggelijkst
 z t ozb
 j ɱ parttimefunctie parttimefuncties
+m c piratenhemdje piratenhemdjes
 c ɹ procrastineren
+m ʃ ramsjen ramsj tsimshian
 f ʔ schroefas
-n ɑː seminar
 ɔː aː servo-kroatisch
-ʃ iː sheets sheet
+ʃ iː sheet sheets
+ʃ ʏː shirt sweatshirt
 ʃ ø sjeuteren
-œː z struisvogel slaapmuis zomerhuizen
+œː z slaapmuis struisvogel zomerhuizen
 œː m sleepruim tuimelperte
 ʃ aː speciaal
 ʒ v swaffelen
-f uː tyfoon taifoen
+f uː taifoen tyfoon
+j w taiwanees taiwan
 c o thyrotoxicose
-w œː wuiven uitwuiven
+c ɛ tjendol
+w œː uitwuiven wuiven
 ʔ h usb-hubjes usb-hubjes usb-hubje usb-hubje usb-hubs usb-hubs usb-hub usb-hub
 ʔ l usb-laders usb-laders usb-ladertjes usb-ladertjes usb-ladertje usb-ladertje usb-lader usb-lader
-ʔ v usb-verbindingen usb-verbindingen usb-verbinding usb-verbinding usb-verbindinkjes usb-verbindinkjes usb-verbindinkje usb-verbindinkje usb-voedingen usb-voedingen usb-voeding usb-voeding usb-voedinkjes usb-voedinkjes usb-voedinkje usb-voedinkje
-ɣ ʏː vaargeul vaargeultjes vaargeultje
-ʏː l vaargeul vaargeultjes vaargeultje
+ʔ v usb-verbindingen usb-verbindingen usb-verbinding usb-verbinding usb-verbindinkjes usb-verbindinkjes usb-verbindinkje usb-verbindinkje usb-voedingen usb-voedingen
+ɣ ʏː vaargeultjes vaargeultje vaargeul
+ʏː l vaargeultjes vaargeultje vaargeul
 v w voitures voiture voituurtjes voituurtje
 ɣ c zachtjes
 z ɑː zagreb
